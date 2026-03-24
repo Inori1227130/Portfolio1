@@ -14,7 +14,7 @@ html {
 }
 
 .titlelogo {
-    color: #f4e4c1; 
+    color: #FFEAC2; 
     font-size: 20px;
     font-weight: bold;
 }
@@ -39,7 +39,7 @@ html {
     margin: 30px;
 }
 
-.sentense {
+.sentence {
     margin: 30px;
 }
 
@@ -53,7 +53,7 @@ body {
 
 .main-navbar a {
     text-decoration: none;
-    color: #f4e4c1;
+    color: #FFEAC2;
     font-size: 16px;
     transition: color 0.3s ease;
 }
@@ -91,11 +91,13 @@ body {
     margin: 30px auto 0;
     border: none;
     cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 20px;
 }
 
 .url a {
     text-decoration: none;
-    color: #f4e4c1;
+    color: #FFEAC2;
     font-size: 16px;
     transition: color 0.3s ease;
 }
@@ -112,8 +114,8 @@ body {
     padding: 10px 30px;
 }
 
-.footer-sentense {
-    color: #f4e4c1; 
+.footer-sentence {
+    color: #FFEAC2; 
     font-size: 20px;
     font-weight: bold;
 }
@@ -138,17 +140,11 @@ body {
     text-align: center;
   }
 
-  /* 文字 */
-  .welcome {
-    font-size: 1.8rem;
-    text-align: center;
-  }
-
   .section {
     font-size: 1.3rem;
   }
 
-  .sentense {
+  .sentence {
     font-size: 0.95rem;
     line-height: 1.7;
   }
